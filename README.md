@@ -4,3 +4,5 @@
 
 
 <img src="https://github.com/cillahh/Project1_WordMaster/blob/main/단어%20추가.png?raw=true">
+
+<img src="https://github.com/cillahh/Project1_WordMaster/blob/main/단어%20추가.png?raw=true">
