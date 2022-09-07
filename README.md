@@ -18,6 +18,6 @@
 -'0.나가기'
 
 
-<img src = "https://github.com/cillahh/Project1_WordMaster/blob/main/%EB%82%98%EA%B0%80%EA%B8%B0.png?raw=true"
+<img src = "https://github.com/cillahh/Project1_WordMaster/blob/main/%EB%82%98%EA%B0%80%EA%B8%B0.png?raw=true">
 
 
