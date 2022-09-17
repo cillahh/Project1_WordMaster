@@ -47,6 +47,18 @@ public class WordManager {
             else if(menu==6) {
                 wordCRUD.deleteItem();
             }
+            //파일 저장
+            else if(menu==7) {
+                wordCRUD.saveFile();
+            }
+            //레벨 검색
+            else if(menu==2) {
+                wordCRUD.searchLevel();
+            }
+            //검색
+            else if(menu==3) {
+                wordCRUD.searchWord();
+            }
 
 
         }
