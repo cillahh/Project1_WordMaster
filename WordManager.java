@@ -26,11 +26,23 @@ public class WordManager {
     public void start() {
         while (true) {
             int menu = selectMenu();
+
+            //종료
             if(menu==0) break;
+            //추가
             if(menu==4) {
                 wordCRUD.addWord();
             }
-            if(menu==1) {
+            //확인
+            else if(menu==1) {
+                wordCRUD.listAll();
+            }
+            //수정
+            else if(menu==5) {
+                wordCRUD.updateItem();
+            }
+            //삭제
+            else if(menu==6) {
                 wordCRUD.listAll();
             }
 
