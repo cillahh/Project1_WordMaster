@@ -24,6 +24,8 @@ public class WordManager {
     }
 
     public void start() {
+
+        wordCRUD.loadFile();
         while (true) {
             int menu = selectMenu();
 
@@ -31,7 +33,7 @@ public class WordManager {
             if(menu==0) break;
             //추가
             if(menu==4) {
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             //확인
             else if(menu==1) {
@@ -43,7 +45,7 @@ public class WordManager {
             }
             //삭제
             else if(menu==6) {
-                wordCRUD.listAll();
+                wordCRUD.deleteItem();
             }
 
 
