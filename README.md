@@ -5,7 +5,7 @@
 -'4. 단어 추가'
 
 
-<img src="https://github.com/cillahh/Project1_WordMaster/blob/main/%EB%8B%A8%EC%96%B4%20%EC%B6%94%EA%B0%80.png?raw=true">
+<img src="https://github.com/cillahh/Project1_WordMaster/blob/main/%EB%8B%A8%EC%96%B4%20%EC%B6%94%EA%B0%80.png?raw=true" style:height=50>
 
 
 
