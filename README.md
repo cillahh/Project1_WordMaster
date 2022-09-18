@@ -66,7 +66,7 @@
 
 -'7.파일 저장'
 
-<img src = "[https://github.com/cillahh/Project1_WordMaster/blob/main/%EB%82%98%EA%B0%80%EA%B8%B0.png?raw=true](https://github.com/cillahh/Project1_WordMaster/blob/screenshots/(8)%207.%20파일%20저장.png?raw=true)" height="400">
+<img src="[https://github.com/cillahh/Project1_WordMaster/blob/main/%EB%82%98%EA%B0%80%EA%B8%B0.png?raw=true](https://github.com/cillahh/Project1_WordMaster/blob/screenshots/(8)%207.%20파일%20저장.png?raw=true)" height="400">
 
 
 
